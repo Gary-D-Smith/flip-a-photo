@@ -1,5 +1,7 @@
 # flip-a-photo
 
+Built with React Native
+
 Visit www.garysmith.me/flip-a-photo to demo and learn more about the app.
 
 Finally, a digital space that lets you view or create the “back” of your photos, now easier and with more possibilities than ever!
